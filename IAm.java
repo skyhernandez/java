@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:            Michael Kevin Hernandez
+// Name:            Skylar Hernandez
 // Date:            October 15, 2007
 // Program:         IAm.java
 // Description:     List my qualities after I type it after the string "I am".
