@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:                  Michael Kevin Hernandez
+// Name:                  Skylar Hernandez
 // Date:                  November 15, 2007
 // Program:               bff.java
 // Description:           Given a girl, she would only trade up for a diamond. The
