@@ -1,5 +1,5 @@
 //*************************************************************************************************
-// Name:                   Michael Kevin Hernandez
+// Name:                   Skylar Hernandez
 // Date:                   August 31, 2007
 // Program:                Time.java
 // Description:            Given milliseconds, this program will calculate how many days,
