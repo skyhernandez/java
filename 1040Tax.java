@@ -1,5 +1,5 @@
 NitroxAndOxygen.java//*********************************************************************************************************************
-// Name:                   Michael Kevin Hernandez
+// Name:                   Skylar Hernandez
 // Date:                   October 1, 2007
 // Program:                1040Tax.java
 // Description:            Given income, this will calculate your class, deduction,
