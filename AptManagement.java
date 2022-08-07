@@ -1,6 +1,6 @@
 
 //*****************************************************************************
-// Name:         Michael Kevin Hernandez
+// Name:         Skylar Hernandez
 // Date:         October 17, 2007
 // Program:      AptManagement.java
 /* Description:  Given the number of people in the apartments, and the floor
