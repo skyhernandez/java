@@ -1,5 +1,5 @@
 //*****************************************************************************
-// Name:         Michael Kevin Hernandez
+// Name:         Skylar Hernandez
 // Date:         November 17, 2007
 // Program:      Forestry.java
 /* Description:  This program will deal with forests, where it will do:
