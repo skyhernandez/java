@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:                 Michael Kevin Hernandez
+// Name:                 Skylar Hernandez
 // Date:                 October 29, 2007
 // class:                CSC 120
 // Description:          A provided main method... by Geoff, our task is to create the
