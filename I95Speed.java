@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:                   Michael Kevin Hernandez
+// Name:                   Skylar Hernandez
 // Date:                   September 19, 2007
 // Program:                I95Speed.java
 // Description:            Given distance and time wished to travel, this program will
