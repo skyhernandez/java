@@ -1,5 +1,5 @@
 //*************************************************************************************************
-// Name:                   Michael Kevin Hernandez
+// Name:                   Skylar Hernandez
 // Date:                   September 1, 2007
 // Program:                RooDeaths.java
 // Description:            Given the populations of 'roos, lenghts of the roads, and the
