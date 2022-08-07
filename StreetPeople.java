@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:                   Michael Kevin Hernandez
+// Name:                   Skylar Hernandez
 // Date:                   October 8, 2007
 // Program:                StreetPeople.java
 // Description:            Given the number of houses in a block and the number of people
