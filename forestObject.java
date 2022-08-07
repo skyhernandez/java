@@ -1,5 +1,5 @@
 //*****************************************************************************
-// Name:         Michael Kevin Hernandez
+// Name:         Skylar Hernandez
 // Date:         November 17, 2007
 // Program:      forestObject.java
 /* Description:  This program is the object that will deal with the forests, 
