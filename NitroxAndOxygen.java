@@ -1,5 +1,5 @@
 //*********************************************************************************************************************
-// Name:                    Michael Kevin Hernandez
+// Name:                    Skylar Hernandez
 // Date:                    September 16, 2007
 // Program:                 NitroxAndOxygen.java
 // Description:             Given the depth of dive, and the percentage of O2 in your
